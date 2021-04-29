@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using aspnetcore_gremline.Models;
+using aspnetcore_gremlin.Models;
 
-namespace aspnetcore_gremline.Controllers
+namespace aspnetcore_gremlin.Controllers
 {
     public class HomeController : Controller
     {

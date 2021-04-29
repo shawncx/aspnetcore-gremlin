@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using aspnetcore_gremline.Models;
+using aspnetcore_gremlin.Models;
 
-namespace aspnetcore_gremline.Services
+namespace aspnetcore_gremlin.Services
 {
     public interface ICosmosDbService
     {

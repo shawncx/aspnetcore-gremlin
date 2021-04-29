@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace aspnetcore_gremline
+namespace aspnetcore_gremlin
 {
     public class Program
     {

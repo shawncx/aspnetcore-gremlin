@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
-using aspnetcore_gremline.Services;
+using aspnetcore_gremlin.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace aspnetcore_gremline.Controllers
+namespace aspnetcore_gremlin.Controllers
 {
     public class MyItemController : Controller
     {

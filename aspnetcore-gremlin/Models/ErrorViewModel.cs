@@ -1,6 +1,6 @@
 using System;
 
-namespace aspnetcore_gremline.Models
+namespace aspnetcore_gremlin.Models
 {
     public class ErrorViewModel
     {

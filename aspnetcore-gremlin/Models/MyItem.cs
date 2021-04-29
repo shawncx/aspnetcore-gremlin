@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace aspnetcore_gremline.Models
+namespace aspnetcore_gremlin.Models
 {
     public class MyItem
     {

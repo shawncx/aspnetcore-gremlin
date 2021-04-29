@@ -4,13 +4,13 @@ using System.Linq;
 using System.Net.WebSockets;
 using System.Security.Authentication;
 using System.Threading.Tasks;
-using aspnetcore_gremline.Models;
+using aspnetcore_gremlin.Models;
 using Gremlin.Net.Driver;
 using Gremlin.Net.Structure.IO.GraphSON;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace aspnetcore_gremline.Services
+namespace aspnetcore_gremlin.Services
 {
     public class CosmosDbService : ICosmosDbService
     {

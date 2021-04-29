@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.176
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-gremline", "aspnetcore-gremline\aspnetcore-gremline.csproj", "{8675C506-FA62-443E-A25C-0E1355316DB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-gremlin", "aspnetcore-gremlin\aspnetcore-gremlin.csproj", "{8675C506-FA62-443E-A25C-0E1355316DB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
