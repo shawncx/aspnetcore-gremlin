@@ -65,11 +65,6 @@ namespace aspnetcore_gremlin
             string username = Environment.GetEnvironmentVariable("RESOURCECONNECTOR_TESTGREMLINSECRETCONNECTIONSUCCEEDED_USERNAME");
             string password = Environment.GetEnvironmentVariable("RESOURCECONNECTOR_TESTGREMLINSECRETCONNECTIONSUCCEEDED_PASSWORD");
 
-            //string hostname = "servicelinker-gremlin-cosmos.gremlin.cosmosdb.azure.com";
-            //int port = 443;
-            //string username = "/dbs/coreDB/colls/MyItem";
-            //string password = "LKygIrrYS3zdfKIZgK7WY84vVsvkuirgIRu2w5AESglpNR60WfGh1S43ZxJvfgOAG84XTvIgc1XBxKfWik5WvA==";
-
             CosmosDbService cosmosDbService = new CosmosDbService(
                 hostname,
                 port,
